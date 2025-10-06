@@ -1,0 +1,43 @@
+{
+    "remote_link": "",
+    "ads_int_proxy": "false",
+    "delay_appopen": "0",
+    "inters_count": "0",
+
+    "ads_free": "true",
+
+    "admob_id": "",
+    "admob_app_open": "",
+    "admob_interstitial": "",
+    "admob_native": "",
+
+    "ads_native_main": "false",
+    "ads_native_chat": "false",
+    "ads_native_profile": "false",
+
+    "ads_full_proxies": "0",
+    "ads_full_changes": "0",
+    "ads_full_profile": "0",
+
+    "delay_app_open": "0",
+    "delay_native_req": "0",
+    "delay_native_seen": "0",
+    "delay_full": "0",
+    "full_instead_native": "false",
+
+    "blacklist": "",
+    "force_join": "false",
+    "invisible": "true",
+    "show_deleted": "true",
+    "url": "",
+
+    "xmod": "false",
+    "xmod_c": "0",
+    "xmod_d": "0",
+    "test_number1": "",
+    "test_number2": "",
+
+    "mini_alert": "false",
+    "mini_text": "",
+    "mini_link": ""
+}
