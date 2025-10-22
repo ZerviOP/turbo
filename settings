@@ -32,7 +32,7 @@
     "test_number1": "0",
     "test_number2": "0",
 
-    "mini_alert": "false",
-    "mini_text": "",
+    "mini_alert": "true",
+    "mini_text": "test change",
     "mini_link": ""
 }
