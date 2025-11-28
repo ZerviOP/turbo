@@ -21,7 +21,7 @@
 
     "blacklist": "",
     "force_join": "false",
-    "invisible": "false",
+    "invisible": "true",
     "show_deleted": "true",
     "url": "https://bro3ken.com",
 
